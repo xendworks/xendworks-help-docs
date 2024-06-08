@@ -1,8 +1,9 @@
 ---
 sidebar_position: 1
 ---
+# Introduction
 
-# About
+## About
 
 Xendworks Pvt Ltd. was founded in the year 2022 with a visionary goal: to user in a new era of institution management with unparalleled ease. As a Software as a Service (SaaS) provider, we are dedicated to delivering a hassle-free solution for managing all your institution operations within a single, powerful platform.
 

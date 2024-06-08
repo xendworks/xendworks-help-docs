@@ -4,40 +4,34 @@ sidebar_position: 1
 
 # Organization Setup
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+Before setting up the organization, it's essential to understand how the XendCampus multitenant model works.
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+### **Usecase 1 - MultiLocation Model**
 
-## Create your first React Page
+When an organization has multiple campuses or locations, they can create a single application under which they can add any number of campuses or locations. This model allows users to be mapped to any of these locations and provides the flexibility to decouple them whenever needed.
 
-Create a file at `src/pages/my-react-page.js`:
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
+![Multi-location model](/img/multilocation-model.png)
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
 
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
+### **Usecase 2 - MultiApplication Model**
 
-## Create your first Markdown Page
+When an organization has multiple business units under which they have multiple campuses/Location , they can create a multiple applications for each business units under which they can add any number of campuses or locations. This model allows users to be mapped to any of these locations but within the same application.
 
-Create a file at `src/pages/my-markdown-page.md`:
 
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
+![Multi-location model](/img/multiapplication-model.png)
 
-This is a Markdown page
-```
 
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+### **Organization Setup Pre-requiste** ###
+
+<ul>
+<li>Organization Name</li>
+<li>primary base Address </li>
+<li>primary contact number</li>
+<li>Primary email address</li>
+<li>Primary contact person</li>
+<li>Number of licenses</li>
+</ul>
+
+with all the above informations available, our team will reach out to the primary contact person and proceed the onboarding setup.
+
