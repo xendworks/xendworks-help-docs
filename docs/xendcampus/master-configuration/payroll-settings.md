@@ -38,7 +38,7 @@ Holiday setting allows you to add different deduction variables based on their o
 <hr/>
 ## Employee Provident Fund
 
-EPF settings allows you to add EPF configurations for the organization, one unique feature that xendcampus offers is you can create EPF configuration for each of the locations individually if you are in multilocation-model or create different EPF configuration for different application id you are in multiapplication-model.
+EPF settings allow you to add EPF configurations for the organization. One unique feature that XendCampus offers is the ability to create EPF configurations for each location individually if you are using a multi-location model, or create different EPF configurations for each application ID if you are using a multi-application model.
 
 <ol>
 <li>Go to **settings** > **Payroll** > **EPF**</li>
@@ -46,5 +46,34 @@ EPF settings allows you to add EPF configurations for the organization, one uniq
 <li>Fill the required fields like epf number, cycle, tax type, contribution rates etc..</li><br />
 ![Multi-location model](/img/add-epf.png)
 <li>setting EPF for each location by using applicable locations </li>
+<li>Click **Confirm**</li>
+</ol>
+
+<hr/>
+## Employees' State Insurance
+
+ESI settings allow you to add ESI configurations for the organization. One unique feature that XendCampus offers is the ability to create ESI configurations for each location individually if you are using a multi-location model, or create different ESI configurations for each application ID if you are using a multi-application model.
+
+<ol>
+<li>Go to **settings** > **Payroll** > **ESI**</li>
+<li>Click **Add ESI**</li>
+<li>Fill the required fields like esi number, cycle, tax type, contribution rates etc..</li><br />
+![Multi-location model](/img/add-esi.png)
+<li>setting ESI for each location by using applicable locations </li>
+<li>Click **Confirm**</li>
+</ol>
+
+
+<hr/>
+## Professional Tax
+
+Professional Tax settings allows you to set the tax value with cap which will automatically deduct on employee payroll. One unique feature that XendCampus offers is the ability to create Professional Tax configurations for each location individually if you are using a multi-location model, or create different Professional Tax configurations for each application ID if you are using a multi-application model.
+
+<ol>
+<li>Go to **settings** > **Payroll** > **Professional Tax**</li>
+<li>Click **Add Professional Tax**</li>
+<li>Fill the required fields like pt number, cycle, tax type, tax ranges etc..</li><br />
+![Multi-location model](/img/professional-tax.png)
+<li>setting prpfessional tax for each location by using applicable locations </li>
 <li>Click **Confirm**</li>
 </ol>
