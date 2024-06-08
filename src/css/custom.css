@@ -5,9 +5,9 @@
  */
 
 /* You can override the default Infima variables here. */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 :root {
-  --ifm-color-primary: #2e8555;
+  --ifm-color-primary: #000000dc;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
@@ -31,10 +31,56 @@
 }
 
 body {
-  font-family: "Inter", sans-serif;
+  font-family: "poppins", sans-serif;
 }
 
-
+.navbar{
+background-color: #ffffff;
+box-shadow: 0 1px 5px 3px rgba(46,50,52,.1);
+}
 .navbar__logo img{
   width:80%;
+}
+.navbar__logo{
+margin-right:-30px;
+}
+.navbar__link--active{
+  position: relative;
+  font-weight: 600;
+}
+.navbar__link--active:after{
+  content: '';
+  position: absolute;
+  bottom: -13px;
+  width: 50%;
+  left: 10px;
+  height: 5px;
+  background-color: #27c2a0;
+}
+.thin-scrollbar{
+  box-shadow: 0 1px 5px 3px rgba(46,50,52,.1);
+  border-radius:6px;
+}
+.menu__list-item-collapsible{
+background: none;
+}
+.menu__list-item-collapsible:hover{
+background: none;
+color:#0c8067 !important;
+}
+.menu__link{
+  padding:10px;
+  font-size: 14px;
+}
+.menu__link--active {
+ background-color: #a8dbd04f !important;
+}
+.table-of-contents li{
+color:#b3b3b3;
+padding:5px;
+}
+.table-of-contents__link--active{
+color:#084336;
+background-color: #a4d9cd;
+padding:5px;
 }
