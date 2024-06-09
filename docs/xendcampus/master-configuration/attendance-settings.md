@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+title: Attendance settings
+description: In academic settings, you can configure your leave types, holidays, Late permission policies, shifts, and attendance reports configurations
 ---
 
 # Attendance Settings

@@ -22,7 +22,7 @@ When an organization has multiple business units under which they have multiple 
 ![Multi-location model](/img/multiapplication-model.png)
 
 
-### **Organization Setup Pre-requiste** ###
+### **Organization Setup prerequisite** ###
 
 <ul>
 <li>Organization Name</li>

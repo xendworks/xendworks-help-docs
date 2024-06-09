@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: Academic settings
+description: In academic settings, you can configure various elements such as departments, designations, classes, sections, and courses.
 ---
 
 # Academic Settings

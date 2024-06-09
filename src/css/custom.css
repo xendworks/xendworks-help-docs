@@ -65,7 +65,6 @@ margin-right:0px;
   background-color: #27c2a0;
 }
 .thin-scrollbar{
-  box-shadow: 0 1px 5px 3px rgba(46,50,52,.1);
   border-radius:6px;
 }
 .menu__list-item-collapsible{
