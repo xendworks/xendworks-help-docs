@@ -15,19 +15,28 @@ In attendance settings, you can configure your leave types, holidays, Late permi
 
 Leave settings allows you to create different leave types with specific to different set of filters like department, designation, employee, gender and marital status.
 
+### Creating leave type
 <ol>
 <li>Go to **settings** > **Attendance** > **Leave Types**</li>
 <li>Click on **Add Leave Type**</li>
-<li>Fill the required fields like name, code etc..</li><br />
+<li>Fill the required fields like name, code etc...</li><br/>
 ![Multi-location model](/img/add-leave-types.png)
 <li>You can also set the leave types to be applicable for with the above filters</li>
 <li>Click **Confirm**</li>
 </ol>
 
-<hr/>
-## Holidays
+### Managing leave type
+<ol>
+<li>Go to **settings** > **Attendance** > **Leave Types**</li>
+You will be able to view the list of available leave types.
+<li>Click on the **edit** icon against the particular leave type, to modify it.</li><br/>
+<li>Click on the **delete** icon against the particular leave type, to delete it.</li>
+</ol>
 
-Holiday setting allows you to create organization approved leaves, which will be mapped to leave application, salary calculations etc..
+<hr/>
+## Holiday Master
+
+Holiday Master setting allows you to create organization approved leaves, which will be mapped to leave application, salary calculations etc..
 
 <ol>
 <li>Go to **settings** > **Attendance** > **Holidays**</li>
