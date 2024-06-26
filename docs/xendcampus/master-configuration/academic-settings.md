@@ -23,15 +23,17 @@ Department settings allows you to create departments
 <li>Click **Confirm**</li>
 </ol>
 
+![Multi-location model](/img/department-settings.png)
+
 ### Managing departments
 <ol>
 <li>Go to **settings** > **Academic** > **Department**</li>
-You will be able to view the  list of Departments. 
+<li>You will be able to view the  list of Departments. </li>
 <li>Under **Operation**, click on the **edit button** to modify the particular Department.</li>
 <li>Click on the **delete** to delete the Department.</li>
 </ol>
 
-![Multi-location model](/img/department-settings.png)
+![Multi-location model](/img/department-settings-1.png)
 
 
 ## Designation Settings
@@ -46,6 +48,8 @@ Department settings allows you to create departments
 <li>Click **Confirm**</li>
 </ol>
 
+![Multi-location model](/img/designation-settings.png)
+
 ### Managing designations
 <ol>
 <li>Go to **settings** > **Academic** > **Designation**</li>
@@ -54,12 +58,13 @@ You will be able to view the  list of designations.
 <li>Click on the **delete** to delete the designation.</li>
 </ol>
 
-![Multi-location model](/img/designation-settings.png)
-
+![Multi-location model](/img/designation-settings-1.png)
 
 ## Class Settings
 
 Class settings allows you to create and manage classes
+
+![Multi-location model](/img/class-settings.png)
 
 ### Creating a class
 <ol>
@@ -68,13 +73,3 @@ Class settings allows you to create and manage classes
 <li>Fill the required fields like class name, type and class code</li>
 <li>Click **Confirm**</li>
 </ol>
-
-### Managing classes
-<ol>
-<li>Go to **settings** > **Academic** > **Classes**</li>
-You will be able to view the  list of classes. 
-<li>Under **Operation**, click on the **edit button** to modify the particular class.</li>
-<li>Click on the **delete** to delete the class</li>
-</ol>
-
-![Multi-location model](/img/designation-settings.png)

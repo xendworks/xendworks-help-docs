@@ -8,7 +8,7 @@ description: In biometric settings, you can add a new biometric device based on 
 
 In biometric settings, you can add a new biometric device and keep track of the attendance and check-in and check-out time of the employees. You can also view the status of the devices.
 
-![Multi-location model](/img/biometric-settings.png)
+![Multi-location model](/img/Biometric-1.png)
 
 
 ## Biometric Settings
@@ -23,12 +23,14 @@ Biometric settings allows you to add a new biometric device.
 <li>Click **Confirm**</li>
 </ol>
 
+![Multi-location model](/img/Biometric-2.png)
+
 ### Managing the Biometric 
 <ol>
 <li>Go to **settings** > **Biometric** </li>
-You will be able to view the list of Biometrics. 
+<li>You will be able to view the list of Biometrics. </li>
 <li>Click on the **edit button** to modify the particular Biometric.</li>
 <li>Click on the **delete** to delete the Biometric.</li>
 </ol>
 
-![Multi-location model](/img/department-settings.png)
+![Multi-location model](/img/Biometric-3.png)
