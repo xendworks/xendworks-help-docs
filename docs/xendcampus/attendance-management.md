@@ -24,7 +24,7 @@ You can perform the following actions:
 <li> In the **Filters** tab, choose the school you want to search in </li>
 *image goes here*
 <li> Click on the **search-bar**</li>
-<li> enter the name of the employee you want to get the records of </li>
+<li> Enter the name of the employee you want to get the records of </li>
 *image goes here*
 <li> You will be able to view the attendance record of the employee </li>
 </ol>
